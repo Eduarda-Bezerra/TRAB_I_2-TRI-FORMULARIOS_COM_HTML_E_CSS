@@ -30,3 +30,7 @@ main{
     align-items: center;
     width: 60%;
 }
+
+form{
+    border-bottom: 2px solid var(--text-color);
+}
